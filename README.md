@@ -3,7 +3,7 @@
 This repository contains the sample code for a basic sinatra MVP app. It's purpose is to show the basic structure and
 requirements for an MVP. It leverages [sinatra](http://www.sinatrarb.com), a lightweight DSL for making ruby web apps.
 
-to run this app simply clone the repo, run bundle install, and run `rackup -o 0.0.0.0`.
+to run this app simply clone the repo, run `bundle install`, and run `rackup -o 0.0.0.0`.
 You can reach the app by navigating to [http://localhost:9292](http://localhost:9292) in your browser.
 
 The included files are as follows:
